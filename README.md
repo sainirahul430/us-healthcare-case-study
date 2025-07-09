@@ -66,7 +66,7 @@ Help hospitals better manage workload and admissions.
 
 > ✅ [**View Interactive Dashboard**](https://your-link-here.com)
 
-![Dashboard Screenshot](dashboard/screenshot.png)
+![Dashboard Screenshot](dashboard/Screenshot.png)
 
 Includes:
 - Top insurance providers
