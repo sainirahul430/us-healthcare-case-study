@@ -64,7 +64,7 @@ Help hospitals better manage workload and admissions.
 
 ## 📈 Visual Dashboard
 
-> ✅ [**View Interactive Dashboard**](dashboard/dashboard.html)
+> ✅ [**View Interactive Dashboard**](https://sainirahul430.github.io/us-healthcare-case-study/dashboard/dashboard.html)
 
 ![Dashboard Screenshot](dashboard/Screenshot.png)
 
