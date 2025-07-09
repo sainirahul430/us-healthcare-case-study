@@ -64,7 +64,7 @@ Help hospitals better manage workload and admissions.
 
 ## 📈 Visual Dashboard
 
-> ✅ [**View Interactive Dashboard**](https://your-link-here.com)
+> ✅ [**View Interactive Dashboard**](dashboard/dashboard.html)
 
 ![Dashboard Screenshot](dashboard/Screenshot.png)
 
